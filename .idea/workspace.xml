@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="951f6ca9-2fb5-438f-ae85-887ea4f05942" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/cury/basico/WebDriverExceptions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/cury/basico/Firefox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/cury/basico/Firefox.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +27,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1W0J3ITfjGadKzxmKE6qWwbwnu7" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -41,14 +42,17 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.cury.basico" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/drivers" />
       <recent name="$PROJECT_DIR$/librerias/selenium 3.141.59" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Firefox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.cury.basico.Firefox" />
+    <configuration name="WebDriverExceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.cury.basico.WebDriverExceptions" />
       <module name="Testing" />
       <extension name="coverage">
         <pattern>
@@ -68,7 +72,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Firefox" />
+        <item itemvalue="Application.WebDriverExceptions" />
       </list>
     </recent_temporary>
   </component>
@@ -98,14 +102,14 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="123" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578286768115">
+    <state x="123" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578368334112">
       <screen x="50" y="27" width="1230" height="997" />
     </state>
-    <state x="123" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog/50.27.1230.997/1280.0.1920.1080@50.27.1230.997" timestamp="1578286768115" />
-    <state x="397" y="311" width="525" height="435" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1578286766239">
+    <state x="123" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog/50.27.1230.997/1280.0.1920.1080@50.27.1230.997" timestamp="1578368334112" />
+    <state x="397" y="311" width="525" height="435" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1578368332394">
       <screen x="50" y="27" width="1230" height="997" />
     </state>
-    <state x="397" y="311" width="525" height="435" key="#com.intellij.ide.util.TreeClassChooserDialog/50.27.1230.997/1280.0.1920.1080@50.27.1230.997" timestamp="1578286766239" />
+    <state x="397" y="311" width="525" height="435" key="#com.intellij.ide.util.TreeClassChooserDialog/50.27.1230.997/1280.0.1920.1080@50.27.1230.997" timestamp="1578368332394" />
     <state width="1184" height="257" key="GridCell.Tab.0.bottom" timestamp="1578351873180">
       <screen x="50" y="27" width="1230" height="997" />
     </state>
